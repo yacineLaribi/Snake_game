@@ -11,4 +11,4 @@ python snake.py
 
 Future plans : 
 ==============
-I want to learn pygame to include it in future webapps using Django framework !
+I want to learn pygame to include it in future webapps using `Django framework` !
